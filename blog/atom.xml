@@ -6,9 +6,9 @@ layout: feed
 
 	<title>Thomas Gorman's Blog</title>
 	<link href="http://tgorman31.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://tgorman31.github.io/blog"/>
+	<link href="http://tgorman31.github.io/blog/"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://tgorman31.github.io/blog</id>
+	<id>http://tgorman31.github.io/blog/</id>
 	<author>
 		<name>Thomas Gorman</name>
 		<email>gorman.thomas31@gmail.com</email>
